@@ -1,4 +1,14 @@
 ![GitHub Logo](https://github.com/gnea/gnea-Media/blob/master/Grbl%20Logo/Grbl%20Logo%20250px.png?raw=true)
+
+### Nihini Fork
+***
+TODO: 
+- [] Implement dual axis homing on the Mega 
+- [] Implement support for [TTL -> RS485](https://www.robotics.org.za/RS485-MOD?search=485) spindle contorl for controlling [H100-2.2S2-1B](https://www.3dprintingstore.co.za/centurionstore/spindle-kit-2-2kw-air-cooled.html) 
+***
+
+
+
 ***
 _Click the `Release` tab to download pre-compiled `.hex` files or just [click here](https://github.com/gnea/grbl-Mega/releases)_
 ***
